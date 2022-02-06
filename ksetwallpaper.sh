@@ -1,5 +1,5 @@
 #!/bin/bash
-file="/usr/share/wallpapers/Altai/contents/images/1080x1920.png"
+file="/usr/share/wallpapers/lliurex-desktop/contents/images/1920x1080.png"
 
 # Esperamos a que plasmashell esté listo
 sleep 15
