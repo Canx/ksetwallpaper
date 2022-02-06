@@ -8,6 +8,7 @@ Download and install deb package
 
 ## Manual
 Copy `ksetwallpaper.py` and `ksetwallpaper.sh` to `/usr/local/bin/`
+
 Copy `ksetwallpaper.desktop` to `/etc/xdg/autostart/`
 
 # TODO
