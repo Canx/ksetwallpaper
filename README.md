@@ -4,6 +4,7 @@ Change KDE wallpaper at startupt (lliurex)
 # Install
 ## deb package
 Download and install deb package
+
 ```sudo dpkg -i ksetwallpaperXXXX.deb```
 
 ## Manual
