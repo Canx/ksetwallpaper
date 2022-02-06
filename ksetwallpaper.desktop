@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/usr/local/bin/ksetwallpaper.sh
+Icon=dialog-scripts
+Name=ksetwallpaper
+Path=
+Type=Application
+OnlyShowIn=KDE;
+X-KDE-autostart-phase=1
+NoDisplay=true
