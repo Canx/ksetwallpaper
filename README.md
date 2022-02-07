@@ -1,5 +1,5 @@
 # ksetwallpaper
-Change KDE wallpaper at startupt (lliurex)
+Change KDE wallpaper at startup (lliurex)
 
 # Install
 ## deb package
@@ -15,3 +15,6 @@ Copy `ksetwallpaper.desktop` to `/etc/xdg/autostart/`
 # TODO
 * Wait for plasmashell instead of sleeping
 * Reset wallpaper only when user changes it
+
+# Authors
+`ksetwallpaper.py` is borrowed from [Pavel Borisov](https://github.com/pashazz/ksetwallpaper)
