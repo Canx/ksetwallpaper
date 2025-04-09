@@ -1,5 +1,5 @@
 #!/bin/bash
-file="/usr/share/wallpapers/lliurex-escriptori-normas/contents/images/5000x2813.png"
+file="/usr/share/wallpapers/reglas_centro/contents/images/5000x2813.png"
 
 # Esperamos a que plasmashell esté listo
 sleep 15
