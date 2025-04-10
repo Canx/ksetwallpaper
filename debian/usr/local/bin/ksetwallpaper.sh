@@ -7,6 +7,6 @@ sleep 15
 # Para evitar tentaciones...
 for i in {1..50}
 do
-  /usr/local/bin/ksetwallpaper.py $file
+  /usr/local/bin/ksetwallpaper.py --image $file
   sleep 1m
 done
