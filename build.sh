@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # TODO: Generar las imágenes a partir del xcf
+./export_xcf_to_resolutions.sh
 
 # Copiar las imágenes a sus ubicaciones
 rm -rf ./debian/usr/share/wallpapers
