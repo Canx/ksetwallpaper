@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# Esperamos a que plasmashell esté listo
 sleep 15
 
 # Detectar resolución de pantalla
