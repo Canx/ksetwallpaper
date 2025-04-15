@@ -15,6 +15,6 @@ fi
 # Cambiar el fondo en bucle por si falla alguna vez
 for i in {1..50}
 do
-  /usr/local/bin/ksetwallpaper.py --image "$file"
+  /usr/local/bin/ksetwallpaper.py "$file"
   sleep 1m
 done
